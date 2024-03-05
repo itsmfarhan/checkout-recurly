@@ -1,0 +1,20 @@
+.ckr-recurly-submit-container {
+  text-align: center;
+}
+.recurly-element, .recurly-hosted-field {
+  background-color: #000 !important;
+  border: 1px solid #383838 !important;
+  height: 40px !important;
+}
+.ckr-recurly-form-field {
+  padding: 10px;
+}
+.recurly-form-field-medium {
+  width: 100%;
+  padding: 10px;
+}
+.error_recurly {
+  color: #ba3939;
+  background: #ffe0e0;
+  border: 1px solid #a33a3a;
+}
