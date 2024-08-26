@@ -8,7 +8,7 @@
 if (!class_exists('CKR_Loader')) {
 
     /**
-     * Class CKR_Setting.
+     * Class CKR_Loader.
      */
     class CKR_Loader
     {
